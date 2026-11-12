@@ -1,0 +1,13 @@
+{
+  "name": "classquiz",
+  "version": "1.0.0",
+  "description": "Live classroom quiz game — students join from their phones with a PIN.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
