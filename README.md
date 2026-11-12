@@ -1,2 +1,0 @@
-# KahootLikeGame
-Gamification for Pali
